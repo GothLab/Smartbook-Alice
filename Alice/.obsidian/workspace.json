@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "8cc9ef73ca64f1c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ae4595b1b1b9a0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87617b55af092d72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anotated/0. Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ced2e8f299ed7b52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87774902efc38783",
+    "type": "split",
+    "children": [
+      {
+        "id": "b20919be75b80057",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "199cb24b85a822c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67e7efe19385e705",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fb40489981dceb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b61f936d1c5890b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5df1975c8efe8293",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7afab16ad996b14c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f62b38e19cf5cdc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b72734d0b389bd10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c823179c61288015",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "ced2e8f299ed7b52",
+  "lastOpenFiles": [
+    "index.md",
+    "Anotated/0. Introduction.md",
+    "Chehov/Chehov.md",
+    "Anotated/Anotated.md",
+    "Anotated/I. Down the Rabbit-Hole.md",
+    "Yahin/Yahin.md",
+    "Yahin/Глава двенадцатая. Алисин сон.md",
+    "Yahin/Глава одиннадцатая. Сколько конфет украл Валет.md",
+    "Yahin/Глава десятая. Пара для Омара.md",
+    "Yahin/Глава девятая. Морские мороки.md",
+    "Yahin/Глава восьмая. На крокете у Королевы.md",
+    "Yahin/Глава седьмая. Необычайное чаепитие.md",
+    "Yahin/Глава шестая. Перчёный поросёнок.md",
+    "Yahin/Глава пятая. Бабочкина Куколка.md",
+    "Yahin/Глава четвёртая. Битый Билл.md",
+    "Yahin/Глава третья. История с бестолкотнёй и с хвостиком.md",
+    "Yahin/Глава вторая. Наплаканное море.md",
+    "Yahin/Глава Первая. Кувырком за кроликом.md",
+    "Yahin/Вступление.md",
+    "Yahin/Алиса в Стране Чудес.md",
+    "Underground/Underground.md",
+    "Underground/Who will Riddle me the How and the Why.md",
+    "Underground/POSTSCRIPT.md",
+    "Underground/Chapter IV THE QUEEN'S CROQUET-GROUND. THE MOCK TURTLE'S STORY. THE LOBSTER QUADRILLE. WHO STOLE THE TARTS.md",
+    "Underground/Chapter III ADVICE FROM A CATERPILLAR.md",
+    "Underground/Chapter II A LONG TALE. THE RABBIT SENDS IN A LITTLE BILL.md",
+    "Granstrem",
+    "Frenkel",
+    "Florya",
+    "Ermolovich",
+    "Demurova",
+    "Chehov",
+    "Blehman",
+    "Balter",
+    "Anotated",
+    "Allegro"
+  ]
+}
